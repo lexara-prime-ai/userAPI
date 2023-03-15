@@ -1,4 +1,4 @@
 # userAPI
-A simple API for Reading and Logging User Data
-```Current Status
-  Development
+A simple Module for Reading and Logging User Data
+
+
